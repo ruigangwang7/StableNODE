@@ -1,6 +1,6 @@
 # CDC2024: Stable Neural Differential Dynamics
 <!-- To myself: a clean repo for uploading the code -->
-This repository contains the code for our paper *Learning Stable and Passive Neural Differential Equations*
+This repository contains the code for our CDC2024 submission *Jing Cheng, Ruigang Wang, and Ian R. Manchester, Learning Stable and Passive Neural Differential Equations*
 
 This code has been tested with Python 3.8.10. The figures are generated with MATLAB R2022b.
 
