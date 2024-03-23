@@ -1,0 +1,9 @@
+#!/bin/bash
+for TSIZE in 1200
+do
+for SEED in 20 42 47 58 99
+do 
+python3 ./train_parser.py --trainsize $TSIZE --seed $SEED
+done 
+wait
+done
