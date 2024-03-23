@@ -34,4 +34,4 @@ Run the follow to test a few training sizes:
 `./train_check_trainsize`
 
 ## Contact
-For any questions or bugs, please raise an issue or contact Ruigang Wang or Jing (Johnny) Cheng via: ruigang.wang@sydney.edu.au, jing.cheng@sydney.edu.au
+For any questions or bugs, please raise an issue or contact Ruigang (Ray) Wang (ruigang.wang@sydney.edu.au) or Jing (Johnny) Cheng (jing.cheng@sydney.edu.au)
